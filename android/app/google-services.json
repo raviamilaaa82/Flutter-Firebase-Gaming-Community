@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "816755246635",
+    "project_id": "racing-gr",
+    "storage_bucket": "racing-gr.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:816755246635:android:0953400d1befdc1c160c6e",
+        "android_client_info": {
+          "package_name": "com.racingr.racingr"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "816755246635-bol1m1fjbf73vkceedgij9lpfllj0etm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBLO0prFB3d7CWh6TUURF6JcVOSGu7q8vo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "816755246635-bol1m1fjbf73vkceedgij9lpfllj0etm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
